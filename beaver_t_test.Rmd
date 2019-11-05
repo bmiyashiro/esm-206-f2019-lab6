@@ -1,6 +1,6 @@
 ---
 title: "Beaver body temperatures t-test"
-author: "Allison Horst"
+author: "Bobby"
 date: "11/2/2019"
 output: html_document
 ---
